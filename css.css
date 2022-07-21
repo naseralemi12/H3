@@ -58,7 +58,10 @@
             }
             
             pre#info {
-                font-size: x-large;
+                font-size: 1.5em;
+                font-weight: bold;
+                white-space: pre-wrap;
+                word-break: break-all;
                 font-weight: bold;
             }
             

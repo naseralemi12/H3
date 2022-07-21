@@ -16,7 +16,7 @@
                 margin: 0%;
             }
             
-            h1.logoName:hover {
+            h1.logoName span:hover {
                 font-size: 36px;
             }
             
